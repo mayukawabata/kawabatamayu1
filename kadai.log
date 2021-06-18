@@ -1,0 +1,54 @@
+The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.
+The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.
+The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.
+The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.
+The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.
+console.log("99 bottles of beer on the wall, 99 bottles of beer.")
+console.log("Take one down and pass it around, 98 bottles of beer on the wall.")
+
+console.log("98 bottles of beer on the wall, 98 bottles of beer.")
+console.log("Take one down and pass it around, 97 bottles of beer on the wall.")
+
+console.log("中略")
+
+console.log("1 bottle of beer on the wall, 1 bottle of beer.")
+console.log("Take one down and pass it around, no more bottles of beer on the wall.")
+
+console.log("No more bottles of beer on the wall, no more bottles of beer.")
+console.log("Go to the store and buy some more, 99 bottles of beer on the wall.")
+VM70:1 99 bottles of beer on the wall, 99 bottles of beer.
+VM70:2 Take one down and pass it around, 98 bottles of beer on the wall.
+VM70:4 98 bottles of beer on the wall, 98 bottles of beer.
+VM70:5 Take one down and pass it around, 97 bottles of beer on the wall.
+VM70:7 中略
+VM70:9 1 bottle of beer on the wall, 1 bottle of beer.
+VM70:10 Take one down and pass it around, no more bottles of beer on the wall.
+VM70:12 No more bottles of beer on the wall, no more bottles of beer.
+VM70:13 Go to the store and buy some more, 99 bottles of beer on the wall.
+undefined
+mkdir kadai
+VM110:1 Uncaught SyntaxError: Unexpected identifier
+https://github.com/mayukawabata/-1.git
+console.log("99 bottles of beer on the wall, 99 bottles of beer.")
+console.log("Take one down and pass it around, 98 bottles of beer on the wall.")
+
+console.log("98 bottles of beer on the wall, 98 bottles of beer.")
+console.log("Take one down and pass it around, 97 bottles of beer on the wall.")
+
+console.log("中略")
+
+console.log("1 bottle of beer on the wall, 1 bottle of beer.")
+console.log("Take one down and pass it around, no more bottles of beer on the wall.")
+
+console.log("No more bottles of beer on the wall, no more bottles of beer.")
+console.log("Go to the store and buy some more, 99 bottles of beer on the wall.")
+VM203:2 99 bottles of beer on the wall, 99 bottles of beer.
+VM203:3 Take one down and pass it around, 98 bottles of beer on the wall.
+VM203:5 98 bottles of beer on the wall, 98 bottles of beer.
+VM203:6 Take one down and pass it around, 97 bottles of beer on the wall.
+VM203:8 中略
+VM203:10 1 bottle of beer on the wall, 1 bottle of beer.
+VM203:11 Take one down and pass it around, no more bottles of beer on the wall.
+VM203:13 No more bottles of beer on the wall, no more bottles of beer.
+VM203:14 Go to the store and buy some more, 99 bottles of beer on the wall.
+undefined
